@@ -1,0 +1,7 @@
+{
+  "name": "tryxl ai",
+  "description": "A comprehensive suite of tools showcasing the power of the Gemini API. Features include a chatbot, real-time voice conversations (Live API), image/video analysis, image editing, audio transcription, text-to-speech, and a deep-thinking mode for complex queries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
